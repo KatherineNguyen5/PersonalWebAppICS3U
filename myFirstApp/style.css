@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #8d6d47;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+  }
+  h2 {
+    color: #563f26;
+    margin: 10px 0;
+  }
+  .about-me {
+    color: #4b3820;
+    margin: 20px;
+  }
+  a {
+    color: #53361a;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  footer {
+    background-color: #b3a88e;
+    padding: 20px;
+    text-align: center;
+  }
+  .profile-picture {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px;
+  }
